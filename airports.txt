@@ -1,0 +1,15 @@
+https://aci.aero/2022/04/11/the-top-10-busiest-airports-in-the-world-revealed/
+Airports council international 2021:
+
+"Movements"
+2021
+1	ATLANTA GA, US (ATL)	  707 661
+2	CHICAGO IL, US (ORD)	  684 201
+3	DALLAS/FORT WORTH TX, US (DFW)	  651 895
+4	DENVER CO, US (DEN)	  580 866
+5	CHARLOTTE NC, US (CLT)	  519 895
+6	LOS ANGELES CA, US (LAX)	  506 769
+7	LAS VEGAS NV, US (LAS)	  486 540
+8	PHOENIX AZ, US (PHX)	  408 285
+9	MIAMI FL, US (MIA)	  387 973
+10	HOUSTON TX, US (IAH)	  378 562
